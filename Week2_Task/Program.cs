@@ -24,7 +24,7 @@ if (num1 > 0 && num2 > 0 && num3 > 0)
 }
 else
 {
-    Console.WriteLine("One or More Number is positive");
+    Console.WriteLine("One or More Number is Negative");
 }
 
 //Task 2
